@@ -1,0 +1,185 @@
+body {
+	font-family: 'Raleway';
+	font-size: 21px;
+	padding: 0px;
+	margin: 0px;
+}
+
+h1, h2, h3, h4 , h5 ,h6 {
+	padding: 0;
+	margin: 0;
+}
+
+
+/*header*/
+header {
+	padding-top: 24px;
+	background-color: #FFFFFF;
+}
+
+header a {
+	text-decoration: none;
+	color: #555555;
+	font-size: 17px;
+}
+
+header ul {
+	list-style-type: none;
+}
+
+header ul {
+	padding: 0;
+	margin: 0;
+}
+
+.top {
+	display: flex;
+}
+
+.logo {
+	margin-right: 1161px;
+	padding-left: 148px;
+}
+
+.login {
+	display: block;
+	margin-right: 32px;
+	margin-top: 8px; 
+}
+
+.bot {
+	display: flex;
+	margin-left: 108px;
+	margin-top: 8px;
+}
+
+.navleft {
+	margin-left: 40px;
+	margin-right: 64px;
+}
+
+.login {
+	color: #111111;
+	font-weight: bold;
+}
+
+.diver {
+	margin-left: 0;
+	padding: 0;
+}
+
+.background {
+	position: relative;
+	background-size: 1920px;
+	width: 100%;
+}
+
+
+
+/*хлебушек*/
+.breadcrumbs {
+	color: #999999;
+	font-size: 16px;
+}
+
+.breadcrumbs a {
+	text-decoration: none;
+	color: #999999;
+
+}
+
+.breadcrumbs p {
+	margin: 0;
+}
+
+.breadcrumbs ul {
+	padding-left: 286px;
+	display: flex;
+	color: #999999;
+	list-style-type: none;
+}
+
+.breadcrumbs li {
+	margin-right: 16px;
+}
+
+
+
+/*контент*/
+.text {
+	color: #111111;
+	font-size: 21px;
+}
+
+.text ul {
+	padding: 0;
+	list-style-type: none;
+}
+
+.text li {
+	margin-left: 286px;
+	margin-right: 470px;
+}
+
+.text p {
+	margin: 0;
+	margin-top: 32px;
+}
+
+.headline_main {
+	font-weight: 600;
+	font-size: 34px;
+	color: #111111;
+}
+
+.headline {
+	font-weight: 600;
+	font-size: 21px;
+	color: #111111;
+}
+
+.headline_caption {
+	font-size: 16px;
+	color: #999999;
+}
+
+
+
+/*футер*/
+.footer {
+	top: 1905px;
+	margin: 0px;
+	position: absolute;
+}
+
+.footer1 {
+	color: #FFFFFF;
+	top: 1985px;
+	left: 286px;
+	margin: 0px;
+	position: absolute;
+	font-size: 21px;
+}
+
+.footer2 {
+	color: #FFFFFF;
+	top: 1985px;
+	left: 562px;
+	margin: 0px;
+	position: absolute;
+	font-size: 21px;
+}
+
+.footer_im2 {
+	top: 2026px;
+	left: 286px;
+	margin: 0px;
+	position: absolute;
+}
+
+.footer_im3 {
+	top: 1985px;
+	left: 1336px;
+	margin: 0px;
+	position: absolute;	
+}
